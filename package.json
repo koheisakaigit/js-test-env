@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/koheisakaigit/js-test-env/issues"
   },
-  "homepage": "https://github.com/koheisakaigit/js-test-env#readme"
+  "homepage": "https://github.com/koheisakaigit/js-test-env#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
